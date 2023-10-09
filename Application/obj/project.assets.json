@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Project\\Training\\React\\OnlineShop\\Application\\Application.csproj",
+      "projectUniqueName": "d:\\Project\\Training\\React\\OnlineShop\\API\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "d:\\Project\\Training\\React\\OnlineShop\\Application\\Application.csproj",
+      "projectPath": "d:\\Project\\Training\\React\\OnlineShop\\API\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Majid Pashayi\\.nuget\\packages\\",
-      "outputPath": "d:\\Project\\Training\\React\\OnlineShop\\Application\\obj\\",
+      "outputPath": "d:\\Project\\Training\\React\\OnlineShop\\API\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Majid Pashayi\\AppData\\Roaming\\NuGet\\NuGet.Config",

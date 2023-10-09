@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EH97LIAhPRBfI3bQU4D7eBWUZB/L3BS1q9RF73oFsswk39laXyI/yQH8VUsiRGNNsaTHHrVLSJCqrdGUZnqrHw==",
+  "dgSpecHash": "FdiTLEWCWfgN8a/ew/tpSC52Dr0z998TXMof4je8HPoNpdJI7LNGVJireqxELzfjUPlgmpsPisqRjGieElIgVg==",
   "success": true,
-  "projectFilePath": "d:\\Project\\Training\\React\\OnlineShop\\Application\\Application.csproj",
+  "projectFilePath": "D:\\Project\\Training\\React\\OnlineShop\\API\\Application\\Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

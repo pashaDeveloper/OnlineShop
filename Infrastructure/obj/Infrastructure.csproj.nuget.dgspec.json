@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Project\\Training\\React\\OnlineShop\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\Project\\Training\\React\\OnlineShop\\API\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "d:\\Project\\Training\\React\\OnlineShop\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Project\\Training\\React\\OnlineShop\\API\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Project\\Training\\React\\OnlineShop\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Project\\Training\\React\\OnlineShop\\API\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "d:\\Project\\Training\\React\\OnlineShop\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\Project\\Training\\React\\OnlineShop\\API\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Majid Pashayi\\.nuget\\packages\\",
-        "outputPath": "d:\\Project\\Training\\React\\OnlineShop\\Infrastructure\\obj\\",
+        "outputPath": "D:\\Project\\Training\\React\\OnlineShop\\API\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Majid Pashayi\\AppData\\Roaming\\NuGet\\NuGet.Config",
